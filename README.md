@@ -113,8 +113,6 @@ The Medical Appointment System is a RESTful API built using FastAPI that helps m
 uvicorn main:app --reload
 ```
 
-Then open:
-👉 http://127.0.0.1:8000/docs
 
 ---
 
